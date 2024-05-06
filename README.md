@@ -7,6 +7,6 @@
 
 ## 📊My Status
 <div align="center">
-   <img width="45.5%" height="195px" alt=gitstats src="https://github-readme-stats.vercel.app/api?username=fabricioabdalla&theme=synthwave">
-   <img width="41%" height="195px" alt="favorite langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabricioabdalla&layout=compact&lang_count=6&hide=jupyter%20notebook&theme=synthwave">
+   <img width="45.5%" height="195px" alt=gitstats src="https://github-readme-stats.vercel.app/api?username=fabricioabdalla&theme=dark&show_icons=true">
+   <img width="41%" height="195px" alt="favorite langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabricioabdalla&layout=compact&lang_count=6&hide=jupyter%20notebook&theme=dark">
 </div>
