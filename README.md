@@ -3,7 +3,7 @@
 
 ## 💻🪛Skill and Tools
 
-  ![My skills and tools: html,css,js,nodejs,typescript,c,cpp,vue,nuxtjs,django,express,netlify,postgres,mongodb,bots,raspberrypi,linux,bash,git,vscode,github,vercel,markdown,arduino,postman](https://skillicons.dev/icons?i=html,css,js,nodejs,react,vue,linux,bash,vscode,git,github,mongodb&theme=dark&perline=6)
+  ![My skills and tools: html,css,js,nodejs,typescript,c,cpp,vue,nuxtjs,django,express,netlify,postgres,mongodb,bots,raspberrypi,linux,bash,git,vscode,github,vercel,markdown,arduino,postman](https://skillicons.dev/icons?i=python,html,css,js,nodejs,react,vue,bots,linux,bash,vscode,git,github,markdown,arduino,mongodb&theme=dark&perline=8)
 
 ## 📊My Status
 <div align="center">
