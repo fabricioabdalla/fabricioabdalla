@@ -1,9 +1,9 @@
 <h1 align="center">Abdalla</h1>
-<p align= "center"> Computer Science(CS) undergraduate | Junior Programmer </p>
+<p align= "center"> Computer Science(CS) undergraduate | Machine Learning Developer </p>
 
 ## 💻🪛Skill and Tools
 
-  ![My skills and tools: html,css,js,nodejs,typescript,c,cpp,vue,nuxtjs,django,express,netlify,postgres,mongodb,bots,raspberrypi,linux,bash,git,vscode,github,vercel,markdown,arduino,postman](https://skillicons.dev/icons?i=python,html,css,js,nodejs,react,vue,bots,linux,bash,vscode,git,github,markdown,arduino,mongodb&theme=dark&perline=8)
+  ![My skills and tools: ubuntu,pytorch,mysql,discordjs,anaconda,html,css,js,nodejs,typescript,c,cpp,vue,nuxtjs,django,express,netlify,postgres,mongodb,bots,raspberrypi,linux,bash,git,vscode,github,vercel,markdown,arduino,postman](https://skillicons.dev/icons?i=pytorch,anaconda,python,mysql,html,css,js,discordjs,nodejs,react,vue,bots,linux,ubuntu,bash,vscode,git,github,markdown,arduino,mongodb&theme=dark&perline=7)
 
 ## 📊My Status
 <div align="center">
