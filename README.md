@@ -3,7 +3,7 @@
 
 ## 💻🪛Skill and Tools
 
-  ![My skills and tools: ubuntu,pytorch,mysql,discordjs,anaconda,html,css,js,nodejs,typescript,c,cpp,vue,nuxtjs,django,express,netlify,postgres,mongodb,bots,raspberrypi,linux,bash,git,vscode,github,vercel,markdown,arduino,postman](https://skillicons.dev/icons?i=pytorch,anaconda,python,mysql,html,css,js,discordjs,nodejs,react,vue,bots,c,linux,ubuntu,bash,vscode,git,github,markdown,arduino,mongodb&theme=dark&perline=11)
+  ![My skills and tools: ubuntu,pytorch,mysql,discordjs,anaconda,html,css,js,nodejs,typescript,c,cpp,vue,nuxtjs,django,express,netlify,postgres,mongodb,bots,raspberrypi,linux,bash,git,vscode,github,vercel,markdown,arduino,postman](https://skillicons.dev/icons?i=pytorch,anaconda,python,mysql,html,css,js,discordjs,nodejs,react,vue,bots,c,cpp,linux,ubuntu,bash,vscode,git,github,markdown,mongodb&theme=dark&perline=11)
 
 ## 📊My Status
 <div align="center">
